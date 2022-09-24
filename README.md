@@ -52,5 +52,5 @@
 
 
 
-![alt_text](images/image1.png "image_tooltip")
+![My Files](https://github.com/peachypoblano/lantern-guide/blob/main/my-files.png?raw=true "image_tooltip")
 
